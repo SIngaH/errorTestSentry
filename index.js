@@ -7,11 +7,11 @@
 // });
 
 //----------------------------3
-// let foo = 0;
+let foo = 0;
 
-// foo.forEach(fo => {
-//     console.log(fo);
-// });
+foo.forEach(fo => {
+    
+});
 
 //----------------------------4
 // fetch('../haha.json')
@@ -19,15 +19,8 @@
 //         return response.json()
 //     })
 //     .then(data => {
-//         console.log(data);
+//
 //     })
 //     .catch(error => {
 //         console.error(error);
 //     })
-
-//----------------------------5
-// function bla(){
-//     console.log("bla");
-// )
-
-//----------------------------6
