@@ -7,20 +7,20 @@
 // });
 
 //----------------------------3
-let foo = 0;
+// let foo = 0;
 
-foo.forEach(fo => {
+// foo.forEach(fo => {
     
-});
+// });
 
 //----------------------------4
-// fetch('../haha.json')
-//     .then(response => {
-//         return response.json()
-//     })
-//     .then(data => {
-//
-//     })
-//     .catch(error => {
-//         console.error(error);
-//     })
+fetch('../haha.json')
+    .then(response => {
+        return response.json()
+    })
+    .then(data => {
+
+    })
+    .catch(error => {
+        console.error(error);
+    })
