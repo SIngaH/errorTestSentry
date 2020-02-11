@@ -26,4 +26,7 @@
 //     })
 
 //----------------------------5 - ReferenceError
-console.log(hey);
+// function error(){
+//     let hey = 0;
+// }
+// console.log(hey);
